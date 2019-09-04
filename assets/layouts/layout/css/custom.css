@@ -1,0 +1,15 @@
+/* here you can put your own css to customize and override the theme */
+.page-content-wrapper .page-content {
+    /* margin-left: 235px; */
+    margin-top: 0;
+    min-height: 600px;
+    padding: 25px 20px 10px;
+    margin-left: 0px !important;
+}
+.button-listbar {
+	margin: 5px;
+    float: left;
+}
+#post_date_picker {
+	margin: 5px auto !important;
+}
